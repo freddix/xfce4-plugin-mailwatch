@@ -3,7 +3,7 @@
 Summary:	Mailwatch plugin for XFCE panel
 Name:		xfce4-plugin-mailwatch
 Version:	1.1.0
-Release:	16
+Release:	17
 License:	GPL v2
 Group:		X11/Applications
 Source0:	http://spuriousinterrupt.org/files/mailwatch/%{org_name}-%{version}.tar.bz2
